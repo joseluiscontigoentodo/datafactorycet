@@ -1,0 +1,14 @@
+{
+	"name": "Portal_Desa",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://portal.desa.api.contigoentodo.com/api/autenticacion/iniciarsesion",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	},
+	"correoelectronico": "jlcaono@gmail.com",
+	"contrasena": "Desa123$"
+}
